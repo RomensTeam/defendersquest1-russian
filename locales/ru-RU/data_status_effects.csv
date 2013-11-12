@@ -5,6 +5,8 @@
 "$FLAV_BURN","Ожог",
 "$FLAV_POISON","Яд",
 "$FLAV_EVER_POISON","Вечный яд",
+"$FLAV_TOXIC","Toxic",
+"$FLAV_EVER_TOXIC","Ever-toxic",
 "$FLAV_WOUND","Рана",
 "$FLAV_BLEED","Кровоточение",
 "$FLAV_EVER_BLEED","Всегда кровоточение",
